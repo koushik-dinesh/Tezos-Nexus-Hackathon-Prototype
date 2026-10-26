@@ -1,6 +1,6 @@
 # AI Meeting to Action
 
-**Team name:** Phantom
+**Team name:** Innov8
 **Team members:** Aaryan Sharma, R Sudharsan, Koushik Dinesh, Keerthan Vinay
 Koushik Dinesh - Frontend and Backend, Aaryan Sharma - Frontend , R Sudharsan - Testing
 Turns meeting transcripts into reviewed, assigned action items.
